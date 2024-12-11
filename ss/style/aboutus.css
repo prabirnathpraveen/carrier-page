@@ -1,0 +1,20 @@
+.content{
+    margin-top: 50px;
+    line-height:1.6;
+    /* border: 1px solid black; */
+}
+.content-header{
+    color: red;
+}
+.img-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+.sections{
+    padding: 50px;
+}
+.content-para{
+    line-height: 35px;
+}
